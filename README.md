@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **golang,Next.js**
 
-- 💬 Ask me about **golang , react , html **
+- 💬 Ask me about **golang , react , html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

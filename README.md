@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Baid</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on **Ecommerce-Project**
+- 🔭 I’m currently working on **ecommerce app**
 
-- 🌱 I’m currently learning **Laravel,Next.js**
+- 🌱 I’m currently learning **golang,Next.js**
 
-- 💬 Ask me about **react,Html,css**
+- 💬 Ask me about **golang , react , html **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on lem-in<br><br>
-🤝 I’m looking for help with forum
+🤝 I’m looking for help with lem-in
 
 
 # 💻 Tech Stack:

@@ -5,8 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on forum<br><br>
-🤝 I’m looking for help with forum<br><br>
-🤝 I’m looking for help with lem-in
+🤝 I’m looking for help with groupie-tracker-filters
 
 
 

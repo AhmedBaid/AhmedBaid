@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbaid" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on lem-in and forum<br><br>
-🤝 I’m looking for help with forum
+🔭 I’m currently working on lem-in and filters
+🤝 I’m looking for help with filters
 
 
 

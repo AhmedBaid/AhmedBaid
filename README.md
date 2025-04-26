@@ -5,7 +5,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on forum
-🤝 I’m looking for help with react
+🤝 I’m looking for help with sql
+
 
 
 

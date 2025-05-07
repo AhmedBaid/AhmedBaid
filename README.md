@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on forum </br>
-🤝 I’m looking for help with lemin i need tester 
+🤝 I’m looking for help with lemin 
 
 
 

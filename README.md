@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on real-time-forum  </br>
-🤝 I’m looking for help with graphql
+🤝 I’m looking for help with social network
 
 
 

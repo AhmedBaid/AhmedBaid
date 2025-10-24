@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
 </div>
 
 

@@ -6,7 +6,7 @@
 <h1 align="center">Hey 👋What's Up !!?</h1>
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" width="250" src="https://cdn.techinasia.com/wp-content/uploads/2014/10/gifbook-leonardo-dicaprio.gif"  />
 
 ###
 

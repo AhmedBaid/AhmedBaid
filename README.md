@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Full stuck developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbaid" /> </p>
-
-<h1 align="center">Hey 👋What's Up !!!?</h1>
-
-###
-<img align="right" height="300" width="250" src="https://cdn.techinasia.com/wp-content/uploads/2014/10/gifbook-leonardo-dicaprio.gif"  />
+👨‍💻 I am a passionate coder and problem-solver currently honing my craft at Zone01 Oujda. My journey is driven by a deep curiosity for how things work under the hood and a relentless motivation to transition from a Junior to a Senior Developer. I thrive on complex challenges and am always eager to collaborate on innovative projects.
 
 ###
 
